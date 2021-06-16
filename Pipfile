@@ -9,6 +9,7 @@ pylint = "*"
 [packages]
 requests = "*"
 pandas = "*"
+urllib3 = ">=1.26.5"
 
 [requires]
 python_version = "3.7"
